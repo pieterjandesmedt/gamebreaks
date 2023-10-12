@@ -8,8 +8,8 @@ googleAnalytics: ""
 
 module:
   imports:
-    # path: github.com/pieterjandesmedt/hugo-theme-gamebreaks
-    path: /Users/pieterjan/Sites/hugo-themes/gamebreaks
+    path: github.com/pieterjandesmedt/hugo-theme-gamebreaks
+    # path: /Users/pieterjan/Sites/hugo-themes/gamebreaks
 
 defaultContentLanguage: nl
 defaultContentLanguageInSubdir: true
