@@ -1,0 +1,457 @@
+# Site settings
+languageCode: en-us
+pluralizeListTitles: false
+title: GameBreaks
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics: ""
+
+module:
+  imports:
+    # path: github.com/pieterjandesmedt/hugo-theme-gamebreaks
+    path: /Users/pieterjan/Sites/hugo-themes/gamebreaks
+
+defaultContentLanguage: nl
+defaultContentLanguageInSubdir: true
+languages:
+  nl:
+    contentDir: content/nl
+    disabled: false
+    languageCode: nl-BE
+    languageDirection: ltr
+    languageName: Nederlands
+    params:
+      subtitle: Referenz, Tutorials und Erklärungen
+      hero:
+        # Main hero title
+        title: Take Breaks. Play Games.
+        # Hero subtitle (optional)
+        subtitle: GameBreaks helpt bedrijven om hun teams performanter te maken.
+        # Button text
+        buttontext: Leer hoe
+        # Where the main hero button links to
+        buttonlink: "#hoe"
+        # Hero image (from static/images/___)
+        image: illustrations/team-spirit-pana.svg
+        # Footer logos (from static/images/logos/clients/*.svg)
+        # urls are optional
+        clientlogos:
+        - logo: tabor.svg
+          url: https://www.taborgroep.be/nl
+        - logo: starterslabo.png
+          url: https://starterslabo.be/
+      section2:
+        title: Betere teams bouwen
+        subtitle: door spellen te spelen
+      section3:
+        title: Wat wij bieden
+        subtitle: om teams beter te maken
+      section5:
+        title: Laat ons iets weten
+        subtitle: We willen graag met je samenwerken
+        buttonText: Stuur bericht
+        name: Je naam
+        email: Je email-adres
+        message: Schrijf iets...
+        # action: https://formspree.io/f/<form_id>
+        # method: POST
+      # Customizable navbar. For a dropdown, add a "sublinks" list.
+      navbar:
+      - title: Spellen
+        url: /spellen
+      - title: Formules
+        url: /formules
+      - title: Contact
+        url: '#contact'
+      footer:
+        # Logo (from /images/logos/___)
+        logo: gamebreaks-logo.png
+        # Social media links (GitHub, Twitter, etc.). All are optional.
+        socialmedia:
+          # Icons are from Font Awesome
+        - link: https://www.instagram.com/gamebreaks.be/
+          icon: instagram
+        # - link: https://dribbble.com/#
+        #   icon: dribbble
+        - link: https://facebook.com/#
+          icon: facebook
+        # - link: https://twitter.com/StefMa91
+        #   icon: twitter
+        # - link: https://bitbucket.org/#
+        #   icon: bitbucket
+        # Social Media Title
+        socialmediatitle: Volg ons
+        quicklinks:
+          column1:
+            title: "Product"
+            links:
+            - text: Onze Spellen
+              link: /spellen
+            - text: Onze Formules
+              link: /formules
+          column2:
+            title: "Documentatie"
+            links:
+            - text: Serious Games
+              link: /
+            - text: Teambuilding
+              link: /
+          column3:
+            title: "Blog"
+            links:
+            - text: Laatste Nieuws
+              link: /blog
+            - text: Tech artikels
+              link: /tech
+
+    weight: 1
+  en:
+    contentDir: content/en
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
+    params:
+      subtitle: Reference, Tutorials, and Explanations
+      hero:
+        # Main hero title
+        title: Take Breaks. Play Games.
+        # Hero subtitle (optional)
+        subtitle: GameBreaks helps companies build better teams.
+        # Button text
+        buttontext: Learn how
+        # Where the main hero button links to
+        buttonlink: "#how"
+        # Hero image (from static/images/___)
+        image: illustrations/team-spirit-pana.svg
+        # Footer logos (from static/images/logos/clients/*.svg)
+        # urls are optional
+        clientlogos:
+        - logo: tabor.svg
+          url: https://www.taborgroep.be/nl
+        - logo: starterslabo.png
+          url: https://starterslabo.be/
+      section2:
+        title: Building better teams
+        subtitle: by playing games
+      section3:
+        title: What we offer you
+        subtitle: to accomplish better teams
+      section5:
+        title: Drop us a line or two
+        subtitle: We'd love to hear from you
+        buttonText: Send Message
+        # action: https://formspree.io/f/<form_id>
+        # method: POST
+      navbar:
+      - title: Games
+        url: /games
+      - title: Formulas
+        url: /formulas
+      - title: Contact
+        url: '#contact'
+      footer:
+        # Logo (from /images/logos/___)
+        logo: gamebreaks-logo.png
+        # Social media links (GitHub, Twitter, etc.). All are optional.
+        socialmedia:
+          # Icons are from Font Awesome
+        - link: https://www.instagram.com/gamebreaks.be/
+          icon: instagram
+        # - link: https://dribbble.com/#
+        #   icon: dribbble
+        - link: https://facebook.com/#
+          icon: facebook
+        # - link: https://twitter.com/StefMa91
+        #   icon: twitter
+        # - link: https://bitbucket.org/#
+        #   icon: bitbucket
+        # Social Media Title
+        socialmediatitle: Follow us
+        quicklinks:
+          column1:
+            title: "Product"
+            links:
+            - text: Our games
+              link: /games
+            - text: Our formulas
+              link: /formulas
+          column2:
+            title: "Docs"
+            links:
+            - text: Serious Games
+              link: /
+            - text: Teambuilding
+              link: /
+          column3:
+            title: "Blog"
+            links:
+            - text: Latest News
+              link: /blog
+            - text: Tech Articles
+              link: /tech
+    weight: 2
+
+params:
+  # You can use Markdown syntax for urls [text](//url.to/source)
+  # To create multi-line text in strings use the """example Text""" format
+  #
+  # All icons using Fontawesome's icon font. Look at fontawesome.io/icons
+  # for more icons. The icons are represented by their corresponding
+  # CSS class.
+
+  # Provide your metadata here.
+  name: GameBreaks
+  description: Take Breaks. Play Games.
+
+  # Link custom assets relative to /static
+  custom_css:
+  custom_js:
+    - /js/scripts.js
+
+  # Button texts
+  learnmore: Meer &rarr;
+
+  # 404 error customization
+  error404:
+    heading: Page couldn't be found
+    text: Please visit [this page](/)
+
+  # Navigation Section
+  navigation:
+    links:
+      # - name: Bio
+      #   url: /about/biography
+      # - name: Curriculum Vitae
+      #   url: /about/cv
+      # - name: Contact
+      #   url: /contact/form
+
+  # Tiles Section
+  tiles:
+    enable: true
+    # Display your showcases here.
+
+  # Section Type Two
+  # two:
+  #   enable: false
+  #   title: About our bureau
+  #   subtitle: >
+  #     Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+  #     Mauris aliquet magna magna sed nunc rhoncus pharetra.
+  #     Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
+  #     Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
+  #     Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+  #   name: Bio &rarr;
+  #   url: /about/biography
+
+  # Contact section
+  contact:
+    enable: true
+    buttonSend: Versturen
+    buttonClear: Leegmaken
+    labelName: Naam
+    labelEmail: Emailadres
+    labelMessage: Bericht
+    newsletterName: Hou me op de hoogte
+
+  # Footer section
+  footer:
+    enable: true
+    copyright: GameBreaks
+
+    # social:
+    # - icon: fab fa-linkedin
+    #   url: https://www.linkedin.com/in/frederikdesmedt/
+    #   label: LinkedIn
+
+
+googleAnalytics: # Put in your tracking code without quotes like this: UA-XXX for universal tracking or G-XXX analytics v4 tracking
+# Disables warnings
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy
+  description:
+  # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
+  # preloader: false
+  navbarlogo:
+  # Logo (from static/images/logos/___)
+    image: logos/gamebreaks-logo.png
+    link: /
+    # Default width/height. Uncomment if you need to change
+    width: 36
+    height: 36
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: Take Breaks. Play Games.
+    # Hero subtitle (optional)
+    subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
+    # Button text
+    buttontext: Get started
+    # Where the main hero button links to
+    buttonlink: "#"
+    # Hero image (from static/images/___)
+    image: illustrations/team-spirit-pana.svg
+    # Footer logos (from static/images/logos/clients/*.svg)
+    # urls are optional
+    clientlogos:
+    - logo: tabor
+      url: https://www.taborgroep.be/nl
+    - logo: tribe
+      url: https://stefma.github.io/hugo-fresh/
+    - logo: kromo
+      url: https://github.com/StefMa/hugo-fresh
+    - logo: infinite
+      url: https://hugo-fresh.vercel.app/
+    - logo: gutwork
+      url: https://bulma.io/
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: Spellen
+    url: /
+  - title: Formules
+    url: /
+  # sidebar:
+  #   # Logo (from /images/logos/___.svg)
+  #   logo: fresh-square
+  #   sections:
+  #   - title: User
+  #     icon: user
+  #     links:
+  #     - text: Profile
+  #       url: /
+  #     - text: Account
+  #       url: /
+  #     - text: Settings
+  #       url: /
+  #   - title: Messages
+  #     icon: envelope
+  #     links:
+  #     - text: Inbox
+  #       url: /
+  #     - text: Compose
+  #       url: /
+  #   - title: Images
+  #     icon: image
+  #     links:
+  #     - text: Library
+  #       url: /
+  #     - text: Upload
+  #       url: /
+  #   - title: Settings
+  #     icon: cog
+  #     links:
+  #     - text: User settings
+  #       url: /
+  #     - text: App settings
+  #       url: /
+  section1:
+    title: Great power comes
+    subtitle: with great responsibility
+    tiles:
+    - title: App builder
+      icon: mouse-globe
+      text: This is some explanatory text that is on two rows
+      url: /
+      buttonText: Free trial
+    - title: Cloud integration
+      icon: laptop-cloud
+      text: This is some explanatory text that is on two rows
+      url: /
+      buttonText: Get started
+    - title: Add-ons & plugins
+      icon: plug-cloud
+      text: This is some explanatory text that is on two rows
+      url: /
+      buttonText: Get started
+  section2:
+    title: Building better teams
+    subtitle: by playing games
+  section3:
+    title: What we offer you
+    subtitle: to accomplish better teams
+  section4:
+    title: Our Clients love us!
+    subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+    clients:
+    - name: Irma Walters
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: Accountant
+      img: 1
+    - name: John Bradley
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: Financial Analyst
+      img: 2
+    - name: Gary Blackman
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: HR Manager
+      img: 3
+  section5:
+    title: Drop us a line or two
+    subtitle: We'd love to hear from you
+    buttonText: Send Message
+    # action: https://formspree.io/f/<form_id>
+    # method: POST
+  footer:
+    # Logo (from /images/logos/___)
+    logo: gamebreaks-logo.png
+    # Social Media Title
+    socialmediatitle: Follow Us
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+      # Icons are from Font Awesome
+    - link: https://www.instagram.com/gamebreaks.be/
+      icon: instagram
+    # - link: https://dribbble.com/#
+    #   icon: dribbble
+    - link: https://facebook.com/#
+      icon: facebook
+    # - link: https://twitter.com/StefMa91
+    #   icon: twitter
+    # - link: https://bitbucket.org/#
+    #   icon: bitbucket
+    bulmalogo: false
+    quicklinks:
+      column1:
+        title: "Product"
+        links:
+        - text: Discover features
+          link: /
+        - text: Why choose our product?
+          link: /
+        - text: Compare features
+          link: /
+        - text: Our roadmap
+          link: /
+        - text: AGB
+          link: /agb
+      column2:
+        title: "Docs"
+        links:
+        - text: Get started
+          link: /
+        - text: User guides
+          link: /
+        - text: Admin guide
+          link: /
+        - text: Developers
+          link: /
+      column3:
+        title: "Blog"
+        links:
+        - text: Latest news
+          link: /blog/first
+        - text: Tech articles
+          link: /blog/second
