@@ -9,10 +9,6 @@ weight: 1
 image: Team work-bro.svg
 ---
 
-First and foremost, we make people relax and have fun. Because when you take a break, you want to have a good time, right?
+**Fun and relaxation** are the pillars of all our game designs. We just want people to have a great time while playing our serious games.
 
-<!--more-->
-
-We use our substantial collection of board and card games as well as our own custom built team building games to tap into our inner child and childhood memories, the great times we had with friends and family, playing without worry. We remove boundaries and create stronger connections between employees and team members.
-
-With everything we do, consider the fun box checked.
+This way, you can tear down walls and create **stronger connections** between your colleagues and fellow team members. Finally, there’s no better atmosphere for learning than one where you feel comfortable and relaxed.

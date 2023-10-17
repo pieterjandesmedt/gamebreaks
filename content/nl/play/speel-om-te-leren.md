@@ -8,11 +8,8 @@ icon: noun-learn-5743684.svg
 image: Team work-amico.svg
 ---
 
-Onze zelf-ontworpen teambuilding spellen leren **fundamentele business principes** aan op een praktische manier die het makkelijk maakt alles te onthouden.
+Onze serious games leren je **fundamentele principes van teamwork** aan op een praktische manier die het makkelijk maakt alles te onthouden.
 
-<!--more-->
+Deze principes zitten verweven  in de textuur van onze spelontwerpen, waardoor je alles zelf vanop de eerste rij meemaakt. Deze ervaringen creëren ankerpunten in je geest waaraan je de nieuw verworven kennis eenvoudig en blijvend kan ophangen.
 
-Naast onze collectie aan bestaande gezelschapsspellen zetten we bij GameBreaks ook in op de creatie van **nieuwe team building games**. Deze eigen ontwerpen kunnen uiteraard gespeeld worden voor het plezier, maar we zetten ze ook in om bedrijven de basis bij te brengen van o.a. teamwork, team communicatie en agile productontwikkeling en project management.
-
-Tussen spelsessies door, modereren we hierbij telkens **korte groepssessies** waarin het team hun prestaties analyseert en probeert verbeteringen aan te brengen in hoe ze te werk gaan. Ondertussen houden wij steeds nauwgezet in de gaten hoe het team communiceert met elkaar en welke sleutelrollen aanwezig zijn of ontbreken binnen het team.
-
+Onze games gaan ook verder dan alleen maar teamwork. [Verken onze groeiende portfolio](/nl/spellen) en ontdek de overige business topics die binnen onze spellen behandeld worden.

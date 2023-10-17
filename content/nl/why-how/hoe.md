@@ -6,8 +6,8 @@ weight: 2
 image: Connecting teams-amico.svg
 ---
 
-We herinneren ons allemaal het pure plezier en het gevoel van verbondenheid tijdens het spelen van  gezelschapsspelletjes met onze vrienden en familie. Of de intense woede en het diepe verdriet wanneer iets niet liep zoals we het wilden.
+GameBreaks ontwikkelt **serious games** die geweldig leuk zijn en steengoed in elkaar zitten. Deze games zetten we in om aan **échte teambuilding** te doen.
 
-Spelletjes wekken emoties op in ons allemaal, en deze **emoties communiceren** beter hoe we binnenin functioneren dan woorden ooit kunnen doen. Of om het met een gevatte quote van Plato te zeggen:
+In onze spellen is er ruimte voor elke type persoonlijkheid om zichzelf te zijn en een bijdrage te leveren.
 
-> “Je ontdekt meer over een persoon in een uur spel dan in een jaar conversatie”.
+Bovendien brengen onze spellen iedereen met elkaar in contact, en worden deelnemers gestimuleerd om elkaars unieke talenten te ontdekken en deze vervolgens zo goed mogelijk in te zetten.

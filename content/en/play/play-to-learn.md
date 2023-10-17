@@ -8,10 +8,6 @@ image: Team work-amico.svg
 weight: 2
 ---
 
-Our custom designed games teach **fundamental business principles** in a way that makes it easy to remember.
+Our serious games teach you the **fundamental principles of team work** in a practical way that makes everything easy to remember. These principles are woven into the texture of our game designs, allowing for a completely hands on experience. This experience, in turn, creates cosy places in your mind within which the newly acquired knowledge can easily and permanently find residence.
 
-<!--more-->
-
-Besides using existing board games, we also design and build our **own team building games**. We use these games to teach companies and teams the fundamentals of team work, team communication, agile product development, agile project management, and many other concepts.
-
-In between gaming cycles, we moderate **short group sessions** in which the team analyzes their performance and tries to improve how they operate. All the while, we keep a close eye on how your team communicates with each other, and which key roles are present or absent in your team.
+Our games have a lot more to teach than just the principles of team work, though. [Explore our growing portfolio](/en/games) and discover what each game has to offer.

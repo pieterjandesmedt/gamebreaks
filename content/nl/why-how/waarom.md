@@ -14,4 +14,4 @@ De snelste manier om dit vertrouwen op te bouwen? Je raadt het: samen spellen sp
 
 Spellen wekken emoties op in ons allemaal. Deze **emoties communiceren** beter hoe we binnenin functioneren dan woorden ooit kunnen doen. Of om het met een gevatte quote van Plato te zeggen:
 
-> “Je ontdekt meer over een persoon in een uur spel dan in een jaar conversatie”.
+> "Je ontdekt meer over een persoon in een uur spel dan in een jaar conversatie".

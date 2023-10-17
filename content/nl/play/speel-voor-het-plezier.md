@@ -8,8 +8,6 @@ weight: 1
 image: Team work-bro.svg
 ---
 
-Eerst en vooral: we willen dat mensen zich ontspannen en plezier hebben. Want als je een pauze neemt van het werk, dan wil je het toch fijn hebben, of niet?
+**Plezier en ontspanning** vormen de fundering van al onze spelontwerpen. Wij willen immers dat mensen zich geweldig goed amuseren tijdens onze serious games.
 
-We gebruiken onze uitgebreide collectie bord- en kaartspellen en onze eigen op maat gemaakte teambuildingspellen om ons innerlijke kind en onze jeugdherinneringen aan te spreken, de leuke tijden die we hadden met vrienden en familie, spelend zonder zorgen. We halen muren weg en creëren sterkere banden tussen medewerkers en teamleden.
-
-In alles wat we doen voor jullie, is plezier het hoofdingrediënt. Mjam!
+Zo breek je muren af en creëer je **sterkere banden** tussen je collega’s en teamleden. Bovendien is een ontspannen houding het beste vertrekpunt om nieuwe concepten aan te leren.

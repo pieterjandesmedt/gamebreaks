@@ -6,9 +6,10 @@ weight: 2
 image: Connecting teams-amico.svg
 ---
 
-We all remember the joy and feeling of connection when playing board and card games with friends and family. Or the intense anger and sadness when something didn’t go our way.
+GameBreaks develops **serious games** that are seriously fun and wonderfully well designed. We use these games to make you experience some **real team building**.
 
-Games trigger emotions in all of us, and these **emotions communicate** our inner workings the way words can never do. The following quote from Plato aptly summarizes this:
+Our games offer everyone the freedom to express themselves and contribute.
 
-> “You can discover more about a person in an hour of play than in a year of conversation”
+They also offer opportunity for everyone to connect in meaningful ways, and guide the participants toward discovering each others talents and putting these talents to their most optimal use.
+
 
