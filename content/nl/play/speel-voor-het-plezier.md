@@ -5,7 +5,7 @@ draft: false
 icon: noun-emotion-1693780.svg
 category: spelen
 weight: 1
-image: Team work-bro.svg
+image: Team goals-pana.svg
 ---
 
 **Plezier en ontspanning** vormen de fundering van al onze spelontwerpen. Wij willen immers dat mensen zich geweldig goed amuseren tijdens onze serious games.
