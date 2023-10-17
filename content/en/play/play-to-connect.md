@@ -1,7 +1,7 @@
 ---
 title: "Play to Connect"
 date: 2023-09-22T12:41:25+02:00
-draft: false
+draft: true
 icon: noun-connect-6116027.svg
 image: Team goals-pana.svg
 category: play

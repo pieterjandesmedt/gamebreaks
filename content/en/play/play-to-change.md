@@ -8,4 +8,7 @@ category: play
 weight: 4
 ---
 
-GameBreaks helps your company to fully embrace the power of ‘taking breaks and playing games’ as a **team enhancement tool**. We weave our core philosophy into your company culture and permanently making a change for the better. Contact us to make a free appointment. Together we will see how we can make this happen.
+GameBreaks can help your company to fully embrace the power of **gamebreaks as a team enhancement tool** by making our core philosophy part of your company culture.
+
+Contact us to make a free appointment, and together we will see how we can make this happen.
+

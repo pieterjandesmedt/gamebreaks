@@ -12,4 +12,4 @@ Onze serious games leren je **fundamentele principes van teamwork** aan op een p
 
 Deze principes zitten verweven  in de textuur van onze spelontwerpen, waardoor je alles zelf vanop de eerste rij meemaakt. Deze ervaringen creëren ankerpunten in je geest waaraan je de nieuw verworven kennis eenvoudig en blijvend kan ophangen.
 
-Onze games gaan ook verder dan alleen maar teamwork. [Verken onze groeiende portfolio](/nl/spellen) en ontdek de overige business topics die binnen onze spellen behandeld worden.
+Onze games gaan ook verder dan alleen maar teamwork. [Verken ons groeiende portfolio](/nl/spellen) en ontdek de overige business topics die binnen onze spellen behandeld worden.
