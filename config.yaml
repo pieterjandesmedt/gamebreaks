@@ -21,6 +21,7 @@ languages:
     languageDirection: ltr
     languageName: Nederlands
     params:
+      readMoreButton: Ontdek
       hero:
         # Main hero title
         title: Take Breaks. Play Games.
@@ -57,9 +58,9 @@ languages:
       # Customizable navbar. For a dropdown, add a "sublinks" list.
       navbar:
       - title: Spellen
-        url: /spellen
+        url: /nl/spellen
       - title: Formules
-        url: /formules
+        url: /nl/formules
       - title: Contact
         url: '#contact'
       footer:
@@ -85,9 +86,9 @@ languages:
             title: "Product"
             links:
             - text: Onze Spellen
-              link: /spellen
+              link: /nl/spellen
             - text: Onze Formules
-              link: /formules
+              link: /nl/formules
           column2:
             title: "Documentatie"
             section: "docs"
@@ -95,9 +96,9 @@ languages:
             title: "Blog"
             links:
             - text: Laatste Nieuws
-              link: /blog
+              link: /nl/blog
             - text: Tech artikels
-              link: /tech
+              link: /nl/tech
 
     weight: 1
   en:
@@ -107,7 +108,7 @@ languages:
     languageDirection: ltr
     languageName: English
     params:
-      subtitle: Reference, Tutorials, and Explanations
+      readMoreButton: Discover
       hero:
         # Main hero title
         title: Take Breaks. Play Games.
@@ -140,9 +141,9 @@ languages:
         # method: POST
       navbar:
       - title: Games
-        url: /games
+        url: /en/games
       - title: Formulas
-        url: /formulas
+        url: /en/formulas
       - title: Contact
         url: '#contact'
       footer:
@@ -168,9 +169,9 @@ languages:
             title: "Product"
             links:
             - text: Our games
-              link: /games
+              link: /en/games
             - text: Our formulas
-              link: /formulas
+              link: /en/formulas
           column2:
             title: "Docs"
             section: "docs"
@@ -178,9 +179,9 @@ languages:
             title: "Blog"
             links:
             - text: Latest News
-              link: /blog
+              link: /en/blog
             - text: Tech Articles
-              link: /tech
+              link: /en/tech
     weight: 2
 
 params:
@@ -262,7 +263,7 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Spellen
-    url: /
+    url: /nl/spellen
   - title: Formules
     url: /
   # sidebar:
