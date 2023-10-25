@@ -30,16 +30,16 @@ languages:
         # Button text
         buttontext: Leer hoe
         # Where the main hero button links to
-        buttonlink: "#hoe"
+        buttonlink: "#betere-teams-bouwen"
         # Hero image (from static/images/___)
         image: illustrations/team-spirit-pana.svg
         # Footer logos (from static/images/logos/clients/*.svg)
         # urls are optional
         clientlogos:
-        - logo: tabor.svg
-          url: https://www.taborgroep.be/nl
-        - logo: starterslabo.png
-          url: https://starterslabo.be/
+        # - logo: tabor.svg
+        #   url: https://www.taborgroep.be/nl
+        # - logo: starterslabo.png
+        #   url: https://starterslabo.be/
       section2:
         title: Betere teams bouwen
         subtitle: door spellen te spelen
@@ -126,16 +126,16 @@ languages:
         # Button text
         buttontext: Learn how
         # Where the main hero button links to
-        buttonlink: "#how"
+        buttonlink: "#building-better-teams"
         # Hero image (from static/images/___)
         image: illustrations/team-spirit-pana.svg
         # Footer logos (from static/images/logos/clients/*.svg)
         # urls are optional
         clientlogos:
-        - logo: tabor.svg
-          url: https://www.taborgroep.be/nl
-        - logo: starterslabo.png
-          url: https://starterslabo.be/
+        # - logo: tabor.svg
+        #   url: https://www.taborgroep.be/nl
+        # - logo: starterslabo.png
+        #   url: https://starterslabo.be/
       section2:
         title: Building better teams
         subtitle: by playing games
