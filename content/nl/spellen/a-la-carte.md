@@ -6,7 +6,8 @@ draft: false
 image: female chef-amico.svg
 price: €50 per persoon, minimaal €1200
 duration: 3 uur
-participants: 20 tot 60
+participantsMin: 20
+participantsMax: 60
 languages: Nederlands, Engels
 ---
 
@@ -24,6 +25,8 @@ _“Zeg, euh… waar blijft het personeel eigenlijk?”_ Het blijft angstvallig 
 … Niet dus. Aan zelfvertrouwen echter geen gebrek:
 
 _“Bwah, dan doen we dat toch zelf? Hoe moeilijk kan het zijn!?”_
+
+----
 
 In A la Carte duik je van bij het begin in de sfeer van een restaurantkeuken. Tijdens het spel zullen jij en je team klanten ontvangen, bestellingen opnemen, ingrediënten verzamelen, keukenapparaten bedienen, maaltijden bereiden, alles netjes presenteren op een bord en uiteindelijk de klanten bedienen. Klantentevredenheid is hierbij het hoogste goed, maar wat houdt dit precies in? Hoe gaan jullie het beste te werk om jullie doelen te verwezenlijken? En misschien nog het belangrijkste van allemaal: welk soort restaurant willen jullie eigenlijk creëren?
 

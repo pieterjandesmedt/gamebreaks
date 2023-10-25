@@ -53,16 +53,25 @@ languages:
         name: Je naam
         email: Je email-adres
         message: Schrijf iets...
-        # action: https://formspree.io/f/<form_id>
-        # method: POST
+        action: /nl/succes
+      sectionGame:
+        price: Prijs
+        duration: Tijdsduur
+        languages: Talen
+        date: Datum
+        participants: Aantal deelnemers
+        to: tot
+        message: Bijkomende opmerking of vragen...
+        buttonText: Vraag offerte aan
+        cancelText: Annuleren
       # Customizable navbar. For a dropdown, add a "sublinks" list.
       navbar:
       - title: Spellen
         url: /nl/spellen
-      - title: Formules
-        url: /nl/formules
+      # - title: Formules
+      #   url: /nl/formules
       - title: Contact
-        url: '#contact'
+        url: '/nl/contact'
       footer:
         # Logo (from /images/logos/___)
         logo: gamebreaks-logo-yellow.png
@@ -87,8 +96,8 @@ languages:
             links:
             - text: Onze Spellen
               link: /nl/spellen
-            - text: Onze Formules
-              link: /nl/formules
+            # - text: Onze Formules
+            #   link: /nl/formules
           column2:
             title: "Documentatie"
             section: "docs"
@@ -137,15 +146,25 @@ languages:
         title: Drop us a line or two
         subtitle: We'd love to hear from you
         buttonText: Send Message
-        # action: https://formspree.io/f/<form_id>
+        action: /en/success
         # method: POST
+      sectionGame:
+        price: Price
+        duration: Duration
+        languages: Languages
+        date: Date
+        particpants: Number of participants
+        to: to
+        message: Additional remarks or questions...
+        buttonText: Ask offer
+        cancelText: Cancel
       navbar:
       - title: Games
         url: /en/games
-      - title: Formulas
-        url: /en/formulas
+      # - title: Formulas
+      #   url: /en/formulas
       - title: Contact
-        url: '#contact'
+        url: '/en/contact'
       footer:
         # Logo (from /images/logos/___)
         logo: gamebreaks-logo-yellow.png
@@ -170,8 +189,8 @@ languages:
             links:
             - text: Our games
               link: /en/games
-            - text: Our formulas
-              link: /en/formulas
+            # - text: Our formulas
+            #   link: /en/formulas
           column2:
             title: "Docs"
             section: "docs"
