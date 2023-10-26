@@ -98,9 +98,9 @@ languages:
               link: /nl/spellen
             # - text: Onze Formules
             #   link: /nl/formules
-          column2:
-            title: "Documentatie"
-            section: "docs"
+          # column2:
+          #   title: "Documentatie"
+          #   section: "docs"
           column3:
             title: "Blog"
             links:
@@ -191,9 +191,9 @@ languages:
               link: /en/games
             # - text: Our formulas
             #   link: /en/formulas
-          column2:
-            title: "Docs"
-            section: "docs"
+          # column2:
+          #   title: "Docs"
+          #   section: "docs"
           column3:
             title: "Blog"
             links:
