@@ -28,7 +28,7 @@ In short: everything was in place for the grand opening!
 
 Or so you thought. With half an hour to go before the restaurant doors opened, someone suddenly asked:
 
-_"Say, uh ... where is the staff anyway?"_ There remains an anxious silence, and a slight panic creeps up on you all. _"Surely we have hired staff! ... Or have we?!"_
+_"Say, uh ... where is the staff anyway?"_ An anxious silence lingers and a slight panic creeps up on you all. _"Surely we have hired staff! ... Or have we?!"_
 
 ... Not so. No lack of self-confidence, however:
 
