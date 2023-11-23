@@ -9,6 +9,13 @@ duration: 3 uur
 participantsMin: 20
 participantsMax: 60
 languages: Nederlands, Engels
+images:
+  - IMG_1563.jpg
+  - IMG_1564.jpg
+  - IMG_1565.jpg
+  - IMG_1567.jpg
+  - IMG_1568.jpg
+  - IMG_1570.jpg
 ---
 
 Jij en je team hebben een tijdje geleden geïnvesteerd in een oude brasserie, met als doel ze om te toveren tot een succesvol toprestaurant!
