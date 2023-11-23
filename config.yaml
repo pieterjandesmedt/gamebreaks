@@ -46,6 +46,26 @@ languages:
       section3:
         title: Wat wij bieden
         subtitle: om teams beter te maken
+      section4:
+        title: Onze klanten houden van ons!
+        subtitle: Enkele getuigenissen
+        clients:
+        - name: Geertrui
+          quote: Het was een activiteit waarin je zowel veel spelplezier uithaalt als je een gevoel van verbondenheid met je team geeft. Het was een cool spel met veel mooie details waar ieder iets kon uit halen wat hij graag doet.
+          job: Consultant Infrastructuur
+          img: Geertrui Vandist.jpg
+        - name: Christophe
+          quote: In begin was iedereen wat afwachtend, maar uiteindelijk werkten alle collega’s samen om het doel te bereiken en heerste er een echt teamgevoel. Het was dus zeer geslaagd.
+          job: Consultant Duurzame Infrastructuur
+          img: Christophe_0.jpg
+        - name: Hannelore
+          quote: Toffe manier om je collega’s snel op een andere manier te leren kennen. Het zat goed in elkaar met verschillende lagen, zonder dat het te ingewikkeld werd. Het werd goed begeleid en het bouwt op in verschillende rondes.
+          job: Consultant Talent & Organisatie
+          img: Hannelore.jpg
+        - name: Chris
+          quote: Ik ontdekte mijn enthousiasmerende slavendrijverskills 😉. Ik heb mijn collega’s van de technische dienst leren kennen en nu organiseren wij samen het volgende werkevent.
+          job: Project Manager
+          img: Chris DC 1e keuze.jpg
       section5:
         title: Laat ons iets weten
         subtitle: We willen graag met je samenwerken
@@ -142,6 +162,26 @@ languages:
       section3:
         title: What we offer you
         subtitle: to accomplish better teams
+      section4:
+        title: Our clients love us!
+        subtitle: Some testimonials
+        clients:
+        - name: Geertrui
+          quote: It was an activity in which you both get a lot of game fun out of and a sense of belonging to your team. It was a cool game with a lot of nice details where each one could get something out of it that they like.
+          job: Consultant Infrastructuur
+          img: Geertrui Vandist.jpg
+        - name: Christophe
+          quote: In the beginning everyone was a bit hesitant, but in the end all colleagues worked together to achieve the goal and there was a real team feeling. So it was very successful.
+          job: Consultant Duurzame Infrastructuur
+          img: Christophe_0.jpg
+        - name: Hannelore
+          quote: Cool way to quickly get to know your colleagues in a different way. It was well put together with different layers without getting too complicated. It was well guided and it builds up in different rounds.
+          job: Consultant Talent & Organisatie
+          img: Hannelore.jpg
+        - name: Chris
+          quote: I discovered my enthusiastic slave-driving skills 😉. I got to know my colleagues in technical services and now we are organizing the next work event together.
+          job: Project Manager
+          img: Chris DC 1e keuze.jpg
       section5:
         title: Drop us a line or two
         subtitle: We'd love to hear from you
@@ -345,21 +385,28 @@ params:
     title: What we offer you
     subtitle: to accomplish better teams
   section4:
-    title: Our Clients love us!
-    subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+    title: Onze klanten houden van ons!
+    subtitle: Enkele getuigenissen
     clients:
-    - name: Irma Walters
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Accountant
+    - name: Geertrui
+      quote: Het was een activiteit waarin je zowel veel spelplezier uithaalt als je een gevoel van verbondenheid met je team geeft. Het was een cool spel met veel mooie details waar ieder iets kon uit halen wat hij graag doet.
+      job: Consultant Infrastructuur
       img: 1
-    - name: John Bradley
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Financial Analyst
+    - name: Christophe
+      quote: In begin was iedereen wat afwachtend, maar het heeft het doel bereikt, want uiteindelijk werkten alle collega’s samen om het doel te bereiken en heerste er een echt teamgevoel. Het was dus zeer geslaagd.
+      job: Consultant Duurzame Infrastructuur
       img: 2
-    - name: Gary Blackman
-      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: HR Manager
+    - name: Hannelore
+      quote: Toffe manier om je collega’s snel op een andere manier te leren kennen. Het zat goed in elkaar met verschillende lagen, zonder dat het te ingewikkeld werd. Het werd goed begeleid en het bouwt op in verschillende rondes.
+      job: Consultant Talent & Organisatie
       img: 3
+    - name: Hannelore
+      quote: Toffe manier om je collega’s snel op een andere manier te leren kennen. Het zat goed in elkaar met verschillende lagen, zonder dat het te ingewikkeld werd. Het werd goed begeleid en het bouwt op in verschillende rondes.
+      job: Consultant Talent & Organisatie
+      img: 3
+    - name: Chris
+      quote: Ik ontdekte tijdens het ‘slicen mijn enthousiasmerende slavendrijverskills 😉. Ik heb mijn collega’s van de technische dienst leren kennen en nu organiseren wij samen het volgende werkevent.
+      img: 4
   section5:
     title: Drop us a line or two
     subtitle: We'd love to hear from you
