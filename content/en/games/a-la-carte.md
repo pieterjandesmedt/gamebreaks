@@ -9,6 +9,13 @@ duration: 3 hours
 participantsMin: 20
 participantsMax: 60
 languages: Dutch, English
+images:
+  - IMG_1563.jpg
+  - IMG_1564.jpg
+  - IMG_1565.jpg
+  - IMG_1567.jpg
+  - IMG_1568.jpg
+  - IMG_1570.jpg
 ---
 
 You and your team invested in an old brasserie a while ago, with the goal of turning it into a successful top restaurant!
