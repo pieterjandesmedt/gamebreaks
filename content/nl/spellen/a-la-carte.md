@@ -35,7 +35,7 @@ _“Bwah, dan doen we dat toch zelf? Hoe moeilijk kan het zijn!?”_
 
 ----
 
-In A la Carte duik je van bij het begin in de sfeer van een restaurantkeuken. Tijdens het spel zullen jij en je team klanten ontvangen, bestellingen opnemen, ingrediënten verzamelen, keukenapparaten bedienen, maaltijden bereiden, alles netjes presenteren op een bord en uiteindelijk de klanten bedienen. Klantentevredenheid is hierbij het hoogste goed, maar wat houdt dit precies in? Hoe gaan jullie het beste te werk om jullie doelen te verwezenlijken? En misschien nog het belangrijkste van allemaal: welk soort restaurant willen jullie eigenlijk creëren?
+In A La Carte duik je van bij het begin in de sfeer van een restaurantkeuken. Tijdens het spel zullen jij en je team klanten ontvangen, bestellingen opnemen, ingrediënten verzamelen, keukenapparaten bedienen, maaltijden bereiden, alles netjes presenteren op een bord en uiteindelijk de klanten bedienen. Klantentevredenheid is hierbij het hoogste goed, maar wat houdt dit precies in? Hoe gaan jullie het beste te werk om jullie doelen te verwezenlijken? En misschien nog het belangrijkste van allemaal: welk soort restaurant willen jullie eigenlijk creëren?
 
 A La Carte bestaat uit verschillende rondes, met tussen elke ronde een kort, gemodereerd overlegmoment. Tijdens dit overlegmoment analyseren jullie jullie samenwerking, bespreken jullie wat jullie kunnen veranderen en hoe jullie kunnen verbeteren. Door goed te luisteren naar elkaar en open te staan voor snelle aanpassingen, buigen jullie de initiële chaos en inefficiëntie om tot het bevredigende gezoem van een geoliede machine.
 

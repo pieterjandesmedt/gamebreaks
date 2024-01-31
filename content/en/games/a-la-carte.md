@@ -36,7 +36,7 @@ _"Bwah, we'll do it ourselves, won't we? How hard can it be!"_
 
 ----
 
-In A la Carte, you dive into the atmosphere of a restaurant kitchen from the very beginning. During the game you and your team will receive customers, take orders, collect ingredients, operate kitchen appliances, prepare meals, present everything neatly on a plate and finally serve the customers. Customer satisfaction is the highest priority, but what exactly does this mean? How do you best go about achieving your goals? And perhaps most important of all: what kind of restaurant do you actually want to create?
+In A La Carte, you dive into the atmosphere of a restaurant kitchen from the very beginning. During the game you and your team will receive customers, take orders, collect ingredients, operate kitchen appliances, prepare meals, present everything neatly on a plate and finally serve the customers. Customer satisfaction is the highest priority, but what exactly does this mean? How do you best go about achieving your goals? And perhaps most important of all: what kind of restaurant do you actually want to create?
 
 A La Carte consists of several rounds, with a short, moderated consultation moment between each round. During this consultation moment, you analyze your collaboration, discuss what you can change and how you can improve. By listening carefully to each other and being open to quick adjustments, you will turn the initial chaos and inefficiency into the satisfying hum of a well-oiled machine.
 
