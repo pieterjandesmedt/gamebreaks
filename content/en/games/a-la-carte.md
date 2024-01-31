@@ -3,7 +3,7 @@ title: "A La Carte"
 tagline: "Formulate your own goals, and grow. As a restaurant, _and_ as a team."
 date: 2023-10-19T11:12:55+02:00
 draft: false
-image: a-la-carte-2.jpg
+image: a-la-carte-3.jpg
 price: €50 per person, minimum €1200
 duration: 3 hours
 participantsMin: 20
