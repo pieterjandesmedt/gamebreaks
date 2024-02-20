@@ -37,4 +37,4 @@ In A La Carte, you dive into the atmosphere of a restaurant kitchen from the ver
 
 A La Carte consists of several rounds, with a short, moderated consultation moment between each round. During this consultation moment, you analyze your collaboration, discuss what you can change and how you can improve. By listening carefully to each other and being open to quick adjustments, you will turn the initial chaos and inefficiency into the satisfying hum of a well-oiled machine.
 
-Cook. Serve. Make money and invest. Formulate your own goals, and grow. As a restaurant, _and_ as a team.
+Cook. Serve. Formulate your own goals and grow. As a restaurant, _and_ as a team.
