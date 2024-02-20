@@ -18,24 +18,21 @@ images:
   - IMG_1570.jpg
 ---
 
-Jij en je team hebben een tijdje geleden geïnvesteerd in een oude brasserie, met als doel ze om te toveren tot een succesvol toprestaurant!
+Jij en je team hebben een tijdje geleden een oude brasserie gekocht, met als doel ze om te toveren tot een succesvol toprestaurant. Alles is in kannen en kruiken voor de grote opening! Of dat dacht je toch...
 
 <!--more-->
 
-Vol goede moed vlogen jullie erin: jullie contacteerden aannemers, stelden menu’s op en een ambitieus marketingplan maakte dat jullie al gauw gingen trenden op de sociale media.
-Kortom: alles was in kannen en kruiken voor de grote opening!
+Net voor de deuren van het restaurant openen, vraagt iemand plotseling:
 
-Of dat dachten jullie. Met nog een half uur te gaan voor de deuren van het restaurant openen, vraagt iemand plotseling:
+> _"Zeg, euh... waar blijft het personeel eigenlijk?"_
 
-_“Zeg, euh… waar blijft het personeel eigenlijk?”_ Het blijft angstvallig stil, en een lichte paniek besluipt jullie allen. _“We hebben toch wel zeker personeel aangeworven! … Of niet soms?!”_
+Oeps! Aan zelfvertrouwen echter geen gebrek:
 
-… Niet dus. Aan zelfvertrouwen echter geen gebrek:
-
-_“Bwah, dan doen we dat toch zelf? Hoe moeilijk kan het zijn!?”_
+> _"Dan doen we dat toch zelf? Hoe moeilijk kan het zijn!?"_
 
 ----
 
-In A La Carte duik je van bij het begin in de sfeer van een restaurantkeuken. Tijdens het spel zullen jij en je team klanten ontvangen, bestellingen opnemen, ingrediënten verzamelen, keukenapparaten bedienen, maaltijden bereiden, alles netjes presenteren op een bord en uiteindelijk de klanten bedienen. Klantentevredenheid is hierbij het hoogste goed, maar wat houdt dit precies in? Hoe gaan jullie het beste te werk om jullie doelen te verwezenlijken? En misschien nog het belangrijkste van allemaal: welk soort restaurant willen jullie eigenlijk creëren?
+In A La Carte duik je van bij het begin in de sfeer van een restaurantkeuken. Tijdens het spel ontvang je klanten ontvangen, neem je bestellingen op, verzamel je ingrediënten, bedien je keukenapparaten, bereid je maaltijden, presenteer je alles netjes op een bord en bedien je uiteindelijk de klanten. Klantentevredenheid is hierbij het hoogste goed, maar wat houdt dit precies in? Hoe gaan jullie het beste te werk om jullie doelen te verwezenlijken? En misschien nog het belangrijkste van allemaal: welk soort restaurant willen jullie eigenlijk creëren?
 
 A La Carte bestaat uit verschillende rondes, met tussen elke ronde een kort, gemodereerd overlegmoment. Tijdens dit overlegmoment analyseren jullie jullie samenwerking, bespreken jullie wat jullie kunnen veranderen en hoe jullie kunnen verbeteren. Door goed te luisteren naar elkaar en open te staan voor snelle aanpassingen, buigen jullie de initiële chaos en inefficiëntie om tot het bevredigende gezoem van een geoliede machine.
 

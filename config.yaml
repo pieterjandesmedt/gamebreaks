@@ -66,6 +66,14 @@ languages:
           quote: Ik ontdekte mijn enthousiasmerende slavendrijverskills 😉. Ik heb mijn collega’s van de technische dienst leren kennen en nu organiseren wij samen het volgende werkevent.
           job: Project Manager
           img: Chris DC 1e keuze.jpg
+        - name: Fadi
+          quote: Vanaf de eerste smaak van chaos leren we ons teamworkrecept verfijnen, waarbij we de hitte van fouten omzetten in de pruttelende bouillon van verbetering. In deze culinaire reis rijzen leiders op als bedreven koks, waardoor het restaurant van chaos verandert in een feest van plezier en samenwerking.
+          job: Life Science Business Unit Executive
+          img: fadi.jpg
+        - name: Gerd
+          quote: Zeer bruikbaar om het belang van teamwork en verdeling van taken en zoektocht naar efficiëntie aan te kaarten 👍
+          job: Operations Manager Utilities
+          img: gerd.jpg
       section5:
         title: Laat ons iets weten
         subtitle: We willen graag met je samenwerken
@@ -182,6 +190,14 @@ languages:
           quote: I discovered my enthusiastic slave-driving skills 😉. I got to know my colleagues in technical services and now we are organizing the next work event together.
           job: Project Manager
           img: Chris DC 1e keuze.jpg
+        - name: Fadi
+          quote: From the first taste of chaos, we learn to refine our teamwork recipe, turning the heat of mistakes into the simmering broth of improvement. In this culinary journey, leaders rise as adept cooks, transforming the restaurant from chaos into a feast of fun and collaboration.
+          job: Life Science Business Unit Executive
+          img: fadi.jpg
+        - name: Gerd
+          quote: Very useful to raise the importance of teamwork and division of tasks and quest for efficiency 👍
+          job: Operations Manager Utilities
+          img: gerd.jpg
       section5:
         title: Drop us a line or two
         subtitle: We'd love to hear from you

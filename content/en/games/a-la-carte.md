@@ -18,21 +18,18 @@ images:
   - IMG_1570.jpg
 ---
 
-You and your team invested in an old brasserie a while ago, with the goal of turning it into a successful top restaurant!
+You and your team bought an old brasserie a while ago, with the goal of turning it into a successful top restaurant.
+Tonight, everything is in place for the grand opening! Or so you thought...
 
 <!--more-->
 
-Full of good cheer, you flew in: you contacted contractors, drew up menus and an ambitious marketing plan soon made you start trending on social media.
+Just before the restaurant doors open, someone suddenly asks:
 
-In short: everything was in place for the grand opening!
+> _"Say, uh ... where is the staff?"_
 
-Or so you thought. With half an hour to go before the restaurant doors opened, someone suddenly asked:
+Whoops! No lack of self-confidence, however:
 
-_"Say, uh ... where is the staff anyway?"_ An anxious silence lingers and a slight panic creeps up on you all. _"Surely we have hired staff! ... Or have we?!"_
-
-... Not so. No lack of self-confidence, however:
-
-_"Bwah, we'll do it ourselves, won't we? How hard can it be!"_
+> _"Eh, we'll do it ourselves. How hard can it be?"_
 
 ----
 
