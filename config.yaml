@@ -24,7 +24,14 @@ languages:
       readMoreButton: Ontdek
       hero:
         # Main hero title
-        title: Take Breaks. Play Games.
+        title: Speel om te
+        typewriter:
+          - leren
+          - verbinden
+          - groeien
+          - verbeteren
+          - veranderen
+          - inspireren
         # Hero subtitle (optional)
         subtitle: GameBreaks helpt bedrijven om hun teams performanter te maken.
         # Button text
@@ -148,7 +155,14 @@ languages:
       readMoreButton: Discover
       hero:
         # Main hero title
-        title: Take Breaks. Play Games.
+        title: Play to
+        typewriter:
+          - learn
+          - connect
+          - grow
+          - improve
+          - change
+          - inspire
         # Hero subtitle (optional)
         subtitle: GameBreaks helps companies build better teams.
         # Button text
