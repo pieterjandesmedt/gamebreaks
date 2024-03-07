@@ -1,11 +1,11 @@
 ---
 title: "Speel om te verbinden"
 date: 2023-10-10T11:31:15+02:00
-draft: true
+draft: false
 icon: noun-connect-6116027.svg
 image: Team goals-pana.svg
 category: spelen
-weight: 3
+weight: 1
 ---
 
 Ben je op zoek naar een unieke teambuilding voor jouw team? Zoek niet verder!

@@ -1,7 +1,7 @@
 ---
 title: "Speel voor het plezier"
 date: 2023-10-10T11:30:59+02:00
-draft: false
+draft: true
 icon: noun-emotion-1693780.svg
 category: spelen
 weight: 1
