@@ -8,8 +8,5 @@ icon: noun-learn-5743684.svg
 image: Team work-amico.svg
 ---
 
-Onze serious games leren je **fundamentele principes van teamwork** aan op een praktische manier die het makkelijk maakt alles te onthouden.
 
-Deze principes zitten verweven  in de textuur van onze spelontwerpen, waardoor je alles zelf vanop de eerste rij meemaakt. Deze ervaringen creëren ankerpunten in je geest waaraan je de nieuw verworven kennis eenvoudig en blijvend kan ophangen.
-
-Onze games gaan ook verder dan alleen maar teamwork. [Verken ons groeiende portfolio](/nl/spellen) en ontdek de overige business topics die binnen onze spellen behandeld worden.
+Dankzij game-based learning dienen onze spellen uitstekend als middel om teams op te leiden in diverse soft- en hard skills. [Ontdek ons groeiende portfolio](/nl/spellen) om te bepalen welke van onze spellen het beste passen binnen jouw bedrijf en doelstellingen.

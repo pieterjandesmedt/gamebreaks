@@ -8,6 +8,6 @@ category: spelen
 weight: 4
 ---
 
-GameBreaks kan je bedrijf helpen om ten volle de kracht van **spellenpauzes als teambevorderend middel** te omarmen door onze kernfilosofie te implementeren in je bedrijfscultuur.
+Bij GameBreaks staat samenwerking jou centraal. Onze ontwerpfilosofie maakt het eenvoudig om bestaande spellen aan te passen aan jouw specifieke inhoud of bedrijfsproces. Of we beginnen met een wit canvas en werken nauw samen om een spel te creëren dat perfect aansluit bij jullie behoeften.
 
-Contacteer ons voor een gratis afspraak, en we bekijken samen hoe we dit kunnen bewerkstelligen.
+Op die manier transformeren we de manier waarop kennisoverdracht binnen jullie bedrijf plaatsvindt.

@@ -8,8 +8,8 @@ category: spelen
 weight: 3
 ---
 
-Onze spellen breken muren af en creëren **sterkere banden** tussen je werknemers en teamleden.
+Ben je op zoek naar een unieke teambuilding voor jouw team? Zoek niet verder!
 
 <!--more-->
 
-We gebruiken onze jarenlange expertise om die spellen te selecteren die het beste bij jullie passen. Op het event zelf zorgen wij voor alles (we zetten alles klaar, bergen alles op, leggen alles uit, geven advies) zodat jullie kunnen focussen op wat belangrijk is: een leuke tijd hebben met je collega’s.
+Onze spellen bieden een bovengemiddelde dosis plezier en ontspanning. Bovendien bevorderen ze échte teambuilding, omdat de teams door de aard van de activiteit en de verbinding tussen alle deelnemers van nature hechter worden en betere prestaties leveren.
