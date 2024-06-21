@@ -10,12 +10,42 @@ participantsMin: 20
 participantsMax: 60
 languages: Dutch, English
 images:
-  - IMG_1563.jpg
-  - IMG_1564.jpg
-  - IMG_1565.jpg
-  - IMG_1567.jpg
-  - IMG_1568.jpg
-  - IMG_1570.jpg
+  - 5T6A6424.JPG
+  - 5T6A6431.JPG
+  - 5T6A6460.JPG
+  - 5T6A6485.JPG
+  - 5T6A6505.JPG
+  - 5T6A6510.JPG
+  - 5T6A6527.JPG
+  - 5T6A6530.JPG
+  - 5T6A6535.JPG
+  - 5T6A6546.JPG
+  - 5T6A6550.JPG
+  - 5T6A6558.JPG
+  - 5T6A6559.JPG
+  - 5T6A6573.JPG
+  - 5T6A6602.JPG
+  - 5T6A6605.JPG
+  - 5T6A6615.JPG
+  - 5T6A6620.JPG
+  - 5T6A6628.JPG
+  - 5T6A6629.JPG
+  - 5T6A6672.JPG
+  - 5T6A6676.JPG
+  - 5T6A6688.JPG
+  - 5T6A6696.JPG
+  - 5T6A6735.JPG
+  - 5T6A6741.JPG
+  - 5T6A6756.JPG
+  - 5T6A6761.jpg
+  - 5T6A6789.JPG
+  - 5T6A6819.jpg
+  - 5T6A6837.JPG
+  - 5T6A6841.JPG
+  - 5T6A6845.JPG
+  - 5T6A6890.JPG
+  - 5T6A6902.JPG
+  - 5T6A6943.jpg
 ---
 
 You and your team bought an old brasserie a while ago, with the goal of turning it into a successful top restaurant.

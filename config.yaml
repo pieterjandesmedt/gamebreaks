@@ -6,6 +6,8 @@ title: GameBreaks
 # Enter your tracking code to enable Google Analytics
 googleAnalytics: ""
 
+timeout: 300s
+
 module:
   imports:
     path: github.com/pieterjandesmedt/hugo-theme-gamebreaks
@@ -302,7 +304,6 @@ googleAnalytics: # Put in your tracking code without quotes like this: UA-XXX fo
 # Disables warnings
 disableKinds:
 - taxonomy
-- taxonomyTerm
 markup:
   goldmark:
     renderer:
